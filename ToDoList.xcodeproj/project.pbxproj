@@ -32,6 +32,7 @@
 		9211B11A2C6BDCA40097AF77 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9211B1192C6BDCA40097AF77 /* LoginViewViewModel.swift */; };
 		9211B11C2C6BDCB20097AF77 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9211B11B2C6BDCB20097AF77 /* RegisterViewViewModel.swift */; };
 		9211B11E2C6BDCC80097AF77 /* ToDolistItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9211B11D2C6BDCC80097AF77 /* ToDolistItemViewViewModel.swift */; };
+		9211B1202C6BE30E0097AF77 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9211B11F2C6BE30E0097AF77 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		9211B1192C6BDCA40097AF77 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		9211B11B2C6BDCB20097AF77 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		9211B11D2C6BDCC80097AF77 /* ToDolistItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDolistItemViewViewModel.swift; sourceTree = "<group>"; };
+		9211B11F2C6BE30E0097AF77 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				9211B1052C6BD35B0097AF77 /* NewItemView.swift */,
 				9211B1072C6BD3680097AF77 /* LoginView.swift */,
 				9211B1092C6BD37B0097AF77 /* RegisterView.swift */,
+				9211B11F2C6BE30E0097AF77 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9211B1082C6BD3680097AF77 /* LoginView.swift in Sources */,
+				9211B1202C6BE30E0097AF77 /* HeaderView.swift in Sources */,
 				9211B0E32C6BCB450097AF77 /* MainView.swift in Sources */,
 				9211B11C2C6BDCB20097AF77 /* RegisterViewViewModel.swift in Sources */,
 				9211B11E2C6BDCC80097AF77 /* ToDolistItemViewViewModel.swift in Sources */,
